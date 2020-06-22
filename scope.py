@@ -2,7 +2,7 @@
 
 #    Victor Corona
 #     June 2020
-# Physics 129L Project
+# 
 
 import wave
 #import pygame
